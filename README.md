@@ -1,1 +1,1 @@
-# curso-vite
+# platzi-javascript-curso-vite-2022
